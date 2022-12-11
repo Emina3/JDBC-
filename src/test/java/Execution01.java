@@ -38,7 +38,7 @@ public class Execution01 {
       // st.execute(sql1);
 
        String sql2 ="DROP TABLE workers";
-       st.execute(sql2);
+      // st.execute(sql2);
 
 
 
@@ -54,7 +54,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Emina3/JDBC-.git
+git remote add origin https://github.com/Emina3/JDBC-.git Ulviyeage7
 git push -u origin main
 
  */
